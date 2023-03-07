@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**, **Apache airflow**, **Pytest**
 
-- 📫 How to reach me **gabrieltagliani30@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/gtagliani**
 
 - ⚡ Fun fact **Java is so boring**
 
