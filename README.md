@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Tagliani</h1>
 <h3 align="center">Versatile developer who uses Python to achieve excellent results!</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F75%2Fe7%2Fef%2F75e7ef7aa27009befb076509382b86b8.gif&f=1&nofb=1&ipt=144dcfe1e21391d1c9e183974c7a7f0ac0bcccd3920dacdc2496504235ac5856&ipo=images)" style="margin-left: 10px;" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" style="margin-left: 10px;" />
 
 - 🔭 I’m currently working on **Compass UOL**
 
